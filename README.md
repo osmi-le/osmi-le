@@ -1,7 +1,6 @@
 
 ### 권미소
-email - kwonms614@gmail.com   
-포트폴리오(노션)   
+email - kwonms614@gmail.com    
 
 __관심 분야(공부중)__   
 >ios(swift) 및 애플 생태계   
