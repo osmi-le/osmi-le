@@ -7,4 +7,4 @@ __관심 분야(공부중)__
 >스프링 프레임워크   
 >객체 지향 프로그래밍   
    
-[details](https://github.com/osmi-le/osmi-le/blob/9d5790fed120699f0239cbef40769623069b5048/portfolio.md)
+[프로젝트](https://github.com/osmi-le/osmi-le/blob/9d5790fed120699f0239cbef40769623069b5048/portfolio.md)
