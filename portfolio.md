@@ -17,7 +17,7 @@ DATABASE : SMMS(SQL Server Management Studio)
 C#, MS-SQL, git   
 
 - 졸업전
-### [Android] Wakey Wakey
+### [Android/JAVA] Wakey Wakey
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/52863709/132721921-d5cfdc62-74e9-4e3f-bf7b-d788d100ff00.png">
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/52863709/132722107-48fc00d8-b5e9-4067-8227-a820af00735f.jpeg">
    
@@ -38,7 +38,7 @@ C#, MS-SQL, git
 >JSP로 만들어진 웹메일 시스템의 기능 추가 및 수정    
 >IDE : Eclipse   
 >DATABASE : MySQL   
->Java, JSP    
+>Java, JSP, (HTML, CSS, Java Script)    
 >소스 : https://github.com/rodvkf72/WebMailSystem
 - 실제로 현업에서 많이 진행할 유지보수 작업을 미리 진행해보며, 실제 웹 메일 시스템에서 사용자가 필요하고 불편하다고 느낄 것들이 어떤 것이 있는지와 프로그램에서 보안, 성능적으로 요구되는 것들에 대해 생각하며 진행하는 프로젝트였습니다.    
    
